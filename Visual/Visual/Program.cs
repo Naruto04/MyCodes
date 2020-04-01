@@ -10,7 +10,7 @@ namespace Visual
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("HelloWorld");
         }
     }
 }
