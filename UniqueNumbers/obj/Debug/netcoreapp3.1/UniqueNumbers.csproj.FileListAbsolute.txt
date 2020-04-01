@@ -1,0 +1,13 @@
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\bin\Debug\netcoreapp3.1\UniqueNumbers.exe
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\bin\Debug\netcoreapp3.1\UniqueNumbers.deps.json
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\bin\Debug\netcoreapp3.1\UniqueNumbers.runtimeconfig.json
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\bin\Debug\netcoreapp3.1\UniqueNumbers.runtimeconfig.dev.json
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\bin\Debug\netcoreapp3.1\UniqueNumbers.dll
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\bin\Debug\netcoreapp3.1\UniqueNumbers.pdb
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.AssemblyInfoInputs.cache
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.AssemblyInfo.cs
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.dll
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.pdb
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.genruntimeconfig.cache
+C:\Users\Snakebite\source\repos\UniqueNumbers\UniqueNumbers\obj\Debug\netcoreapp3.1\UniqueNumbers.csprojAssemblyReference.cache
